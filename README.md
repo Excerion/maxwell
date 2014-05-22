@@ -4,7 +4,7 @@ maxwell
 The Maxwell keyboard layout
 
 
-=== Installation
+### Installation
 
 Testing:
 
