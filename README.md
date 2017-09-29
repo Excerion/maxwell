@@ -14,4 +14,4 @@ This keyboard layout has no Caps lock. Instead, it uses the key as a [compose ke
 
 To permanently use the layout, you need to add the above command to your startup script, like ~/.xinitrc .
 
-
+test
