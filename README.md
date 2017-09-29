@@ -14,4 +14,6 @@ This keyboard layout has no Caps lock. Instead, it uses the key as a [compose ke
 
 To permanently use the layout, you need to add the above command to your startup script, like ~/.xinitrc .
 
-![test](https://u.teknik.io/Sgdoo.bmp)
+What follows is *an estimate* of what the layout looks like. There are actually some differences. For example, this is made for keyboard that have backspace to the left of return, but this is not shown in the picture.
+
+![preview](preview.bmp)
