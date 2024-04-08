@@ -16,7 +16,7 @@ To permanently use the layout, you need to add the above command to your startup
 
 ### Preview
 
-What follows is *an estimate* of what the layout looks like. There are actually some differences. For example, this is made for keyboard that have backspace to the left of return, but this is not shown in the picture.
+What follows is an *approximation* of what the layout looks like. There are actually some differences. For example, this is made for keyboard that have backspace to the left of return, but this is not shown in the picture.
 
 ![preview](preview.bmp)
 
